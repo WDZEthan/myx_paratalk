@@ -1,0 +1,16 @@
+*.json
+*.npz
+*.npy
+*.h5
+*.p
+*.pyc
+*.out
+*.zip
+*.pth
+*.pkl
+__pycache__/
+log*
+copies/
+data/
+cider/
+coco-caption/
