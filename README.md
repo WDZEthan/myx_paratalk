@@ -14,7 +14,7 @@ If training from scratch, you also need:
 * scikit-image (to process images) 
 
 To clone this repository with submodules, use:
-* `git clone --recurse-submodules https://github.com/lukemelas/image-paragraph-captioning`
+* `git clone --recurse-submodules https://github.com/WDZEthan/myx_paratalk`
 
 ### Train your own network
 #### Download and preprocess cations
